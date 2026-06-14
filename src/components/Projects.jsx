@@ -3,17 +3,19 @@ function Projects() {
     {
       title: "Portfolio Website",
       description: "My personal portfolio built with React and Tailwind CSS.",
-      githubLink: "https://github.com/yourusername/portfolio",
+      githubLink: "https://github.com/parthnai21/parth-portfolio",
     },
-    {
-      title: "Weather App",
-      description: "Weather application using API integration.",
-      githubLink: "https://github.com/yourusername/weather-app",
-    },
+   
     {
       title: "SoundWave E-commerce",
       description: "A responsive e-commerce website for premium headphones built using HTML, CSS, JavaScript, and Bootstrap.",
       githubLink: "https://github.com/parthnai21/soundwave-ecommerce",
+    },
+
+     {
+      title: "Weather App",
+      description: "Weather application using API integration.",
+      githubLink: "https://github.com/yourusername/weather-app",
     },
   ];
 
